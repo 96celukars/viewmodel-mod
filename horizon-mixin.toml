@@ -1,0 +1,4 @@
+[package]
+name = "viewmodel_mod"
+version = "1.0.0"
+entry = "lib.rs"
