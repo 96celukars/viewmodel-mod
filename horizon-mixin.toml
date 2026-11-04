@@ -4,7 +4,7 @@ name = "View Model Customizer"
 version = "1.0.0"
 
 [compatibility]
-horizon_revision = "0000000000000000000000000000000000000000"
+horizon_revision = "f7707ab481530000000000000000000000000000" # lub dopasujemy pełny hash
 
 [package]
 name = "viewmodel_mod"
