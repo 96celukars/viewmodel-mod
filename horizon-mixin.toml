@@ -3,6 +3,9 @@ id = "viewmodel_mod"
 name = "View Model Customizer"
 version = "1.0.0"
 
+[compatibility]
+horizon_revision = "0000000000000000000000000000000000000000"
+
 [package]
 name = "viewmodel_mod"
 entry = "lib.rs"
